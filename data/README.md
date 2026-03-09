@@ -1,1 +1,1 @@
-This folder contains raw and cleaned datasets for the project.
+This folder contains raw datasets for the project.
