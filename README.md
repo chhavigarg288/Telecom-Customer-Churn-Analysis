@@ -125,6 +125,7 @@ SQL
 Power BI (for dashboard visualization)
 
 **Project Workflow**
+
 **1 Data Collection**
 
 Loaded the telecom churn dataset and examined its structure, variables, and data types.
@@ -211,6 +212,30 @@ Examples include:
 3. Monthly charges vs churn
 
 4. Tenure vs churn
+
+**Project Files**
+
+```
+Telecom-Customer-Churn-analysis
+│
+├── Data
+│   └── telecom_customer_churn.csv
+│
+├── Excel
+│   └── telecom_customer_churn_analysis.xlsx
+│
+├── python
+│   └── EDA_Report_of_Telecom_Customer_Churn(1).ipynb
+|
+├── sql
+│   └── telecom_churn_analysis.sql
+│
+├── powerbi
+│     └── Telecom Customer Churn analysis Dashboard.pbix
+|     └── Telecom_customer_churn_dashboard.png
+│
+└── README.md
+```
 
 **Conclusion**
 
